@@ -322,5 +322,12 @@
     "searchStrings": [
       "1square.net"
     ]
+  },
+   {
+    "poolName": "2mars",
+    "url": "https://crypto.2mars.biz",
+    "searchStrings": [
+      "2mars https://crypto.2mars.biz"
+    ]
   }
 ]
